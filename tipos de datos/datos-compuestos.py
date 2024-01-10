@@ -27,7 +27,7 @@ diccionario = {
     'dato_duplicado' : "Soy Dalto"
 }
 
-print(diccionario['altura'])
+print(diccionario['canal'])
 
 
 
